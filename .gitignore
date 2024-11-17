@@ -9,5 +9,4 @@ projects/
 *.tflite
 *.h5
 *.kmodel
-*.txt
 *.pyc
